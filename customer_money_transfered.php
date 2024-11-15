@@ -292,7 +292,7 @@ $(function(){
 	<div class="footer" style="position:absolute;width:100%; bottom:0;">
 		<div class="container">
 			<div class="copyright text-center">
-				<p>&copy; 2020 Agricutlure Portal. All rights reserved | Design by NHZP  </a></p>
+				<p>&copy; 2020 Agricutlure Portal.</a></p>
 			</div>
 		</div>
 	</div>

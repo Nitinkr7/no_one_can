@@ -197,7 +197,7 @@ echo "</tr>";
 	<div class="footer">
 		<div class="container">
 			<div class="copyright text-center">
-				<p>&copy; 2020 Agriculture Portal. All rights reserved | Design by NHZP </a></p>
+				<p>&copy; 2020 Agriculture Portal</a></p>
 			</div>
 		</div>
 	</div>

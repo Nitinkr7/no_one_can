@@ -111,32 +111,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="glyphicon glyphicon-user"></span>					
 							<h4><a href="myprofile.php" style="color:white;">My Profile</a></h4>
 						</div>
-						
 						<div class="header-bottom-grid2">
-							<span class="glyphicon glyphicon-leaf"></span>
-							<h4><a href="crop_predict.php" style="color:white;">Crops</a></h4>
-						</div>
-						
-						<div class="header-bottom-grid3">
-							<span class="glyphicon glyphicon-cloud"></span>
-							<h4><a href="upcomimg days.php" style="color:white;">Weather Prediction </a></h4>
-						</div>
-						
-					</div>
-			
-
-					<div class="header-bottom-grids text-center">
-					
-						<div class="header-bottom-grid1 col-md-offset-1">
 							<span class="glyphicon glyphicon-grain"></span>
 							<h4><a href="tradecrops.php" style="color:white;">Trade Crops</a></h4>
 						</div>
-						
-						<div class="header-bottom-grid2 ">
-							<span class="glyphicon glyphicon-list-alt"></span>
-							<h4><a href="newsfeed.php" style="color:white;">News Feed</a></h4>
-						</div>
-
 						<div class="header-bottom-grid3">
 							<span class="glyphicon glyphicon-time"></span>
 							<h4><a href="farmer_history.php" style="color:white;">Selling History</a></h4>
@@ -165,7 +143,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="copyright text-center">
-				<p>&copy; 2020 Agriculture Portal. All rights reserved | Design by NHZP  </a></p>
+				<p>&copy; 2020 Agriculture Portal</a></p>
 			</div>
 		</div>
 	</div>

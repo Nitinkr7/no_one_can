@@ -493,38 +493,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</table>
 			</div>
 
-
-
-			
-
-						
-						
-
-
-
-
-					
-						
-					
-
-
-					
-
-						
-                        
-
-
-
-						
-                        
-
-                    
-                    
-
-				
-             
-	
-	
 	<script type="text/javascript">
 		$(document).ready(function() {
 				/*
