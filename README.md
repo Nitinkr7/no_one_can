@@ -3,9 +3,9 @@
  * HTML5
  * PHP
  * CSS
- * Python
+  
  * Bootstrap
- * JSON
+  
  * Javascript
  * Curl
  * JQuery
